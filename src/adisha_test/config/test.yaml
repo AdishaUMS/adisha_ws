@@ -1,0 +1,8 @@
+profil_robot:
+  nama: 'Ayesha'
+  tinggi: 40
+
+daftar_servo:
+  - 'bahu'
+  - 'leher'
+  - 'lutut'

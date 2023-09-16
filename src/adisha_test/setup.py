@@ -31,7 +31,8 @@ setup(
     entry_points        = {
         'console_scripts': [
             'simple_publisher = adisha_test.example.simple_publisher:main',
-            'simple_subscriber = adisha_test.example.simple_subscriber:main'
+            'simple_subscriber = adisha_test.example.simple_subscriber:main',
+            'yaml_access = adisha_test.example.yaml_access:main'
         ],
     },
 )
