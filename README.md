@@ -18,8 +18,7 @@ The following installations need to be done for running the workspace:
 
     > [!NOTE]
     > It is recommended to use nvm (Node Version Manager) to install node.js instead of apt.
-    > 
-    > Install nvm from this [Github repository](https://github.com/nvm-sh/nvm)
+    > Install nvm from this [github repository](https://github.com/nvm-sh/nvm).
     
     Install the latest long term support of node.js with:
     ```
