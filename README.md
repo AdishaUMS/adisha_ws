@@ -24,7 +24,7 @@ The following installations need to be done for running the workspace:
     ```
     nvm install --lts=current
     ```
-    Check node and npm version with:
+    Check node.js and npm version with:
     ```
     node -v
     npm -v

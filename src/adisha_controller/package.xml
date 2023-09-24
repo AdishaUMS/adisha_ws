@@ -7,8 +7,13 @@
   <maintainer email="todo@email.com">TODO: Add maintainer</maintainer>
   <license>TODO: License declaration</license>
 
+  <build_depend>rosidl_default_generators</build_depend>
+  
+  <exec_depend>rosidl_default_runtime</exec_depend>
   <exec_depend>rclpy</exec_depend>
   <exec_depend>std_msgs</exec_depend>
+
+  <depend>adisha_interface</depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
