@@ -89,9 +89,9 @@ AX12A:
   addr_present_pos: 36
   size_present_pos: 2
 MX28:
-  addr_torque_enable: 64
+  addr_torque_enable: 24
   size_torque_enable: 1
-  addr_goal_pos: 116
-  size_goal_pos: 4
-  addr_present_pos: 132
-  size_present_pos: 4
+  addr_goal_pos: 30
+  size_goal_pos: 2
+  addr_present_pos: 36
+  size_present_pos: 2
