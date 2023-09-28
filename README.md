@@ -14,7 +14,7 @@ The following installations need to be done for running the workspace:
     sudo python3 setup.py install   # or sudo python setup.py install 
     ```
 
-2. **node.js**
+2. **node.js (Optional)**
 
     > [!NOTE]
     > It is recommended to use nvm (Node Version Manager) to install node.js instead of apt.
